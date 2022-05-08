@@ -10,10 +10,10 @@
   "author": "EvilBiscuit",
   "license": "GPL-3.0-only",
   "devDependencies": {
-    "electron": "^8.5.3",
+    "electron": "^8.5.5",
     "electron-builder": "^22.14.13",
     "electron-webpack": "^2.8.2",
-    "vue-loader": "^15.9.3",
+    "vue-loader": "^15.9.8",
     "vue-template-compiler": "^2.6.14",
     "webpack": "^4.46.0"
   },
