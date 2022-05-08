@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@yaireo/tagify": "^2.31.6",
-    "archiver": "^5.0.2",
+    "archiver": "^5.3.1",
     "debounce": "^1.2.0",
     "fs-extra": "^8.1.0",
     "html-dom-parser": "^0.3.0",
